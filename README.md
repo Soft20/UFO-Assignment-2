@@ -105,3 +105,4 @@ The third alteration of the the `tallyChars` method has the best performance wit
 ## Resources
 
 We used a [jupyter notebook](src/analysis/notebook.ipynb) to analyse the collected [performance data](src/analysis/observations.csv).
+If you love Latex - go [here](https://github.com/Soft20/UFO-Assignment-2/tree/main/src/latex)
