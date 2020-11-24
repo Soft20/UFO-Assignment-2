@@ -79,22 +79,22 @@ private static void tallyCharsCustom3(byte [] fileBytes, Map<Integer, Long> freq
 ## Performance
 
 ### Tally Chars
-![img](src/analysis/Tally_Chars.png)
+![img](src/analysis/Tally_Chars.png)  
 std: 44704672.3019  
 mean: 77245155.5800  
 
 ### Tally Chars Custom 1
-![img](src/analysis/Tally_Chars_Custom_1.png)
+![img](src/analysis/Tally_Chars_Custom_1.png)  
 std: 5212312.7555  
 mean: 50741955.4000  
 
 ### Tally Chars Custom 2
-![img](src/analysis/Tally_Chars_Custom_2.png)
+![img](src/analysis/Tally_Chars_Custom_2.png)  
 std: 5884498.2695  
 mean: 30583595.9400  
 
 ### Tally Chars Custom 3
-![img](src/analysis/Tally_Chars_Custom_3.png)
+![img](src/analysis/Tally_Chars_Custom_3.png)  
 std: 4698149.1470  
 mean: 26328980.2800  
 
