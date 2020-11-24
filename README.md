@@ -100,6 +100,11 @@ mean: 30583595.9400
 std: 4698149.1470  
 mean: 26328980.2800  
 
+### Specifications
+
+The code was executed on a MacBook Pro (Retina, 13-inch, Early 2015) with a 2,9 GHz Dual-Core Intel Core i5 Processor. The MacBook has a memory of 8 GB 1867 MHz DDR3.  
+The code was executed with Java version 13.0.2.
+
 ### Conclusion
 
 The third alteration of the the `tallyChars` method has the best performance with approximately `293.38%`
