@@ -1,5 +1,7 @@
 # Assignment 2
 
+If you love Latex - go [here](https://github.com/Soft20/UFO-Assignment-2/tree/main/src/latex)  
+
 ## Objectives
 
 You need to make it run at least 50% faster than it is now, and should be able to get to around 100% faster.
@@ -104,4 +106,5 @@ The third alteration of the the `tallyChars` method has the best performance wit
 
 ## Resources
 
-We used a [jupyter notebook](src/analysis/notebook.ipynb) to analyse the collected [performance data](src/analysis/observations.csv).
+We used a [jupyter notebook](src/analysis/notebook.ipynb) to analyse the collected [performance data](src/analysis/observations.csv)   
+If you love Latex - go [here](https://github.com/Soft20/UFO-Assignment-2/tree/main/src/latex)
